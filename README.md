@@ -70,3 +70,5 @@ WTForms==2.1
 zope.interface==4.4.0
 
 Everything can be accessed through this website: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+
+This application is the process of the finished product of Miguel Grinberg's blog site.
