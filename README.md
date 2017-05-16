@@ -1,4 +1,4 @@
-**Please Note**
+**Please Note**:
 This only works with **localhost**.
 This project was created on a **virtualenv**.
 
